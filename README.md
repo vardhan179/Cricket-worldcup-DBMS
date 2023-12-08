@@ -9,7 +9,9 @@
   * Then to start project enter in chrome type " http://localhost/thecricket/index.html " Press ENTER.
 
 Then use these passwords for authentication
+
 For admin:- 
 Admin id: "admin" password : "123"
+
 For user:- 
 User id: "user" password: "123" then login
