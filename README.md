@@ -1,6 +1,6 @@
 # CRICKET WORLDCUP DATABASE MANAGEMENT SYSTEM
   * First download and install the xampp server.( https://www.apachefriends.org/download.html )
-  * Open the xampp control panel and then start apache server and mysql in it.
+  * Open the xampp control panel and then " start "  'apache server and mysql' in it.
   * Then click on the mysql' admin in xampp.
   * Then copy this downloaded file into C:\xampp\htdocs this location.
   * After that click on mysql's admin then click on "New" create a database name as "cricket"  
